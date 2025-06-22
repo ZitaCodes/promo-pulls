@@ -1,0 +1,13 @@
+{
+  "name": "promo-pulls",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "pulls.js",
+  "scripts": {
+    "start": "node pulls.js"
+  },
+  "dependencies": {
+    "mongoose": "^7.6.1",
+    "micro": "^10.0.1"
+  }
+}

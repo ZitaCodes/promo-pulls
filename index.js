@@ -3,4 +3,6 @@ import { send, json } from "micro";
 import Pull from "./models/Pull.js";
 import connectDB from "./utils/connectDB.js";
 
-// handler code from your previous working version...
+export default async function handler(req, res) {
+  // full code here
+}

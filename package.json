@@ -1,13 +1,11 @@
 {
   "name": "promo-pulls",
   "version": "1.0.0",
-  "type": "module",
   "main": "index.js",
-  "scripts": {
-    "start": "micro"
-  },
+  "type": "module",
   "dependencies": {
-    "micro": "^7.6.1",
-    "mongoose": "^10.0.1"
+    "micro": "^9.3.4",
+    "micro-cors": "^0.1.1",
+    "mongoose": "^7.6.1"
   }
 }

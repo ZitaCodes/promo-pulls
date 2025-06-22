@@ -2,12 +2,12 @@
   "name": "promo-pulls",
   "version": "1.0.0",
   "type": "module",
-  "main": "pulls.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node pulls.js"
+    "start": "micro"
   },
   "dependencies": {
-    "mongoose": "^7.6.1",
-    "micro": "^10.0.1"
+    "micro": "^7.6.1",
+    "mongoose": "^10.0.1"
   }
 }
